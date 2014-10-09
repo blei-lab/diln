@@ -1,0 +1,5 @@
+alpha_init = 20
+beta_init = 5
+bool_learn_alpha = 1
+bool_learn_beta = 0
+Kmeans_iterations = 1
